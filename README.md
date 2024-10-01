@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋I am Naz
+
+- 🌱 I’m currently a student
+- - 📫 How to reach me: 
+
 
 <!--
 **JB-NAZ/jb-naz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
