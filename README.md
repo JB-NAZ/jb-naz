@@ -1,7 +1,7 @@
 ## Hi there 👋I am Naz
 
 - 🌱 I’m currently a student
-- - 📫 How to reach me: 
+<!-- - - 📫 How to reach me: -->
 
 
 <!--
